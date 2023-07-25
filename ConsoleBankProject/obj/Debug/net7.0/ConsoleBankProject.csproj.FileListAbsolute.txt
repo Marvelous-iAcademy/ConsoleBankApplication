@@ -1,0 +1,17 @@
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\ConsoleBankProject\ConsoleBankProject\bin\Debug\net7.0\ConsoleBankProject.exe
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\ConsoleBankProject\ConsoleBankProject\bin\Debug\net7.0\ConsoleBankProject.deps.json
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\ConsoleBankProject\ConsoleBankProject\bin\Debug\net7.0\ConsoleBankProject.runtimeconfig.json
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\ConsoleBankProject\ConsoleBankProject\bin\Debug\net7.0\ConsoleBankProject.dll
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\ConsoleBankProject\ConsoleBankProject\bin\Debug\net7.0\ConsoleBankProject.pdb
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\ConsoleBankProject\ConsoleBankProject\obj\Debug\net7.0\ConsoleBankProject.csproj.AssemblyReference.cache
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\ConsoleBankProject\ConsoleBankProject\obj\Debug\net7.0\ConsoleBankProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\ConsoleBankProject\ConsoleBankProject\obj\Debug\net7.0\ConsoleBankProject.AssemblyInfoInputs.cache
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\ConsoleBankProject\ConsoleBankProject\obj\Debug\net7.0\ConsoleBankProject.AssemblyInfo.cs
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\ConsoleBankProject\ConsoleBankProject\obj\Debug\net7.0\ConsoleBankProject.csproj.CoreCompileInputs.cache
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\ConsoleBankProject\ConsoleBankProject\obj\Debug\net7.0\ConsoleBankProject.dll
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\ConsoleBankProject\ConsoleBankProject\obj\Debug\net7.0\refint\ConsoleBankProject.dll
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\ConsoleBankProject\ConsoleBankProject\obj\Debug\net7.0\ConsoleBankProject.pdb
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\ConsoleBankProject\ConsoleBankProject\obj\Debug\net7.0\ConsoleBankProject.genruntimeconfig.cache
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\ConsoleBankProject\ConsoleBankProject\obj\Debug\net7.0\ref\ConsoleBankProject.dll
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\ConsoleBankProject\ConsoleBankProject\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\marvelous.abolade\Documents\AfricaPrudential\AfricaPrudential Projects\ConsoleBankProject\ConsoleBankProject\obj\Debug\net7.0\ConsoleBankProject.csproj.CopyComplete
